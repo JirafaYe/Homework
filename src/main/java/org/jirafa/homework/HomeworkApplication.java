@@ -1,4 +1,4 @@
-package org.yzh.homework;
+package org.jirafa.homework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

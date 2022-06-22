@@ -1,14 +1,14 @@
-package org.yzh.homework.handler;
+package org.jirafa.homework.handler;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
-import org.yzh.homework.Utils.R;
-import org.yzh.homework.Utils.Result;
+import org.jirafa.homework.Utils.R;
+import org.jirafa.homework.Utils.Result;
 
 /**
- * @author yzh
+ * @author jirafa
  * @date 2022/06/20
  */
 @ControllerAdvice

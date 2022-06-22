@@ -1,13 +1,13 @@
-package org.yzh.homework.Mapper;
+package org.jirafa.homework.Mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
-import org.yzh.homework.entity.Employees;
+import org.jirafa.homework.entity.Employees;
 
 import java.util.List;
 
 /**
- * @author yzh
+ * @author jirafa
  * @date 2022/6/20
  */
 @Mapper

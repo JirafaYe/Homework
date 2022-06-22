@@ -1,16 +1,15 @@
-package org.yzh.homework.entity;
+package org.jirafa.homework.entity;
 
 
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
-import lombok.EqualsAndHashCode;
 
 import java.io.Serializable;
 import java.util.Date;
 import java.util.Objects;
 
 /**
- * @author yzh
+ * @author jirafa
  * @date 2022/06/20
  */
 @Data

@@ -1,9 +1,9 @@
-package org.yzh.homework.DTO;
+package org.jirafa.homework.DTO;
 
 import lombok.Data;
 
 /**
- * @author yzh
+ * @author jirafa
  * @date 2022/06/20
  */
 @Data

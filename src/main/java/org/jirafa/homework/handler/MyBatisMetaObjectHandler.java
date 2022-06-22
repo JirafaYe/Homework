@@ -1,4 +1,4 @@
-package org.yzh.homework.handler;
+package org.jirafa.homework.handler;
 
 import com.baomidou.mybatisplus.core.handlers.MetaObjectHandler;
 import org.apache.ibatis.reflection.MetaObject;

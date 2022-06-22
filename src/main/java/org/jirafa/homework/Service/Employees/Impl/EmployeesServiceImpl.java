@@ -1,19 +1,19 @@
-package org.yzh.homework.Service.Employees.Impl;
+package org.jirafa.homework.Service.Employees.Impl;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import org.yzh.homework.DTO.EmployeesDTO;
-import org.yzh.homework.Mapper.EmployeesMapper;
-import org.yzh.homework.Service.Employees.EmployeesService;
-import org.yzh.homework.Utils.R;
-import org.yzh.homework.Utils.Result;
-import org.yzh.homework.entity.Employees;
+import org.jirafa.homework.DTO.EmployeesDTO;
+import org.jirafa.homework.Mapper.EmployeesMapper;
+import org.jirafa.homework.Service.Employees.EmployeesService;
+import org.jirafa.homework.Utils.R;
+import org.jirafa.homework.Utils.Result;
+import org.jirafa.homework.entity.Employees;
 
 import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * @author yzh
+ * @author jirafa
  * @date 2022/6/20
  */
 @Service

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: HuiHai-Garden
+    name: demo
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: yzh

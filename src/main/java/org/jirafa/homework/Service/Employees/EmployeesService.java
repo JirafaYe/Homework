@@ -1,13 +1,13 @@
-package org.yzh.homework.Service.Employees;
+package org.jirafa.homework.Service.Employees;
 
-import org.yzh.homework.DTO.EmployeesDTO;
-import org.yzh.homework.Utils.Result;
-import org.yzh.homework.entity.Employees;
+import org.jirafa.homework.DTO.EmployeesDTO;
+import org.jirafa.homework.Utils.Result;
+import org.jirafa.homework.entity.Employees;
 
 import java.util.List;
 
 /**
- * @author yzh
+ * @author jirafa
  * @date 2022/6/20
  */
 public interface EmployeesService {
