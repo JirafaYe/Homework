@@ -14,8 +14,8 @@ spring:
       time-between-eviction-runs-millis: 60000      # 最大空闲实践
       min-idle: 5
 mybatis-plus:
-  type-aliases-package: org.yzh.homework.entity
-  mapper-locations: classpath:org/yzh/homework/Mapper/xml/*.xml
+  type-aliases-package: org.jirafa.homework.entity
+  mapper-locations: classpath:org/jirafa/homework/Mapper/xml/*.xml
   configuration:
     map-underscore-to-camel-case: true
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
